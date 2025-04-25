@@ -1,8 +1,3 @@
-# youtube_downloader
-#!/bin!/env bash
-
-yt-dlp "insert_url_here" 
-
 # 🎥 yt-dlp CLI Cheatsheet
 
 A personal reference guide for using [`yt-dlp`](https://github.com/yt-dlp/yt-dlp), a powerful YouTube downloader that works from the command line. Below are commonly used commands for downloading videos, audio, playlists, and more.
